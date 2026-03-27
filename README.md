@@ -8,7 +8,7 @@
 
 ---
 
-### 📱 Mobile App Specialist & 🌐 Web Developer
+### 📱 Mobile App & 🌐 Web Developer
 Android development is my primary domain, but I also enjoy building futuristic web products.
 Currently working on TermsGenie, an AI-powered legal SaaS.
 
