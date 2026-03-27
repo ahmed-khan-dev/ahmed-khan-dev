@@ -9,7 +9,8 @@
 ---
 
 ### 📱 Mobile App Specialist & 🌐 Web Developer
-Android development mera primary domain hai, lekin futuristic web products build karna bhi mujhe bhot pasand hai. Currently, TermsGenie (AI Legal SaaS) par kaam kar raha hu.
+Android development is my primary domain, but I also enjoy building futuristic web products.
+Currently working on TermsGenie, an AI-powered legal SaaS.
 
 - 🤖 **Android Core:** Kotlin, Java, MVVM, Room, Jetpack Compose.
 - ⚡ **Backend/Cloud:** Firebase Authentication, Firestore, Realtime Database.
