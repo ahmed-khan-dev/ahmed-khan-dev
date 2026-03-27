@@ -36,10 +36,10 @@ Currently working on TermsGenie, an AI-powered legal SaaS.
 
 ### 🌐 Social Node Connections
 <p align="left">
-  <a href="mailto:your-email@example.com">
+  <a href="mailto:ammydevy8828@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://linkedin.com/in/your-profile">
+  <a href="https://www.linkedin.com/in/ahmed-khan-ab8991314 ">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </p>
